@@ -31,7 +31,7 @@ Escribe una función llamada factorial que reciba un número entero no negativo 
 
 ## Screenshots
 
-![Test Verdes](./captura%20test%20verdes.png)
+![Test Verdes](./test%20verdes.png)
 
 ## Tecnologías utilizadas
 
